@@ -76,9 +76,10 @@ In your `config.[env].json` file, you'll need to add a new `storage` block to wh
   "storage": {
     "active": "pages-store",
     "pages-store": {
-      "prefix": "https://img.zce.me",
       "repo": "https://git.coding.net/zce/images.git",
-      "branch": "master"
+      "branch": "master",
+      "prefix": "https://img.zce.me",
+      "format": "{yyyy}/{mm}/{dd}/{name}-{uuid}-{timestamp}-{random}{ext}"
     }
   }
 }

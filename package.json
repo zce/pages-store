@@ -1,6 +1,6 @@
 {
   "name": "pages-store",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "GitHub Pages Storage Adapter for Ghost",
   "keywords": [
     "zce"
@@ -28,7 +28,8 @@
   "dependencies": {
     "fs-extra": "^5.0.0",
     "gh-pages": "^1.1.0",
-    "ghost-storage-base": "^0.0.1"
+    "ghost-storage-base": "^0.0.1",
+    "uuid": "^3.1.0"
   },
   "devDependencies": {
     "standard": "^10.0.3"
