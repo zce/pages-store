@@ -85,6 +85,13 @@ In your `config.[env].json` file, you'll need to add a new `storage` block to wh
 }
 ```
 
+### Authorization
+
+You can use URL authentication:
+
+- `https://<TOKEN>@github.com/zce/images.git`
+- `https://wedn:<TOKEN>@git.coding.net/wedn/images.git`
+
 ## Contributing
 
 1. **Fork** it on GitHub!
