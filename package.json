@@ -1,6 +1,6 @@
 {
   "name": "pages-store",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "GitHub Pages Storage Adapter for Ghost",
   "keywords": [
     "zce"
