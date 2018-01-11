@@ -1,0 +1,39 @@
+{
+  "name": "pages-store",
+  "version": "0.1.0",
+  "description": "GitHub Pages Storage Adapter for Ghost",
+  "keywords": [
+    "zce"
+  ],
+  "homepage": "https://github.com/zce/pages-store#readme",
+  "bugs": {
+    "url": "https://github.com/zce/pages-store/issues"
+  },
+  "license": "MIT",
+  "author": "zce <w@zce.me> (https://zce.me/)",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zce/pages-store.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "gh-pages": "^1.1.0",
+    "ghost-storage-base": "^0.0.1"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
