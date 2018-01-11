@@ -97,7 +97,7 @@ In your `config.[env].json` file, you'll need to add a new `storage` block to wh
 
 ## License
 
-[MIT](LICENSE) &copy; 汪磊(https://zce.me/)
+[MIT](LICENSE) &copy; [汪磊](https://zce.me/)
 
 
 
