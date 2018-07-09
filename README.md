@@ -90,7 +90,7 @@ In your `config.[env].json` file, you'll need to add a new `storage` block to wh
 You can use URL authentication:
 
 - GitHub: `https://<TOKEN>@github.com/zce/images.git`
-- Coding: `https://<USERNAME>:<TOKEN>@git.coding.net/zce/images.git`
+- GitLab/Coding: `https://<USERNAME>:<TOKEN>@git.coding.net/zce/images.git`
 
 > depends on the service.
 
