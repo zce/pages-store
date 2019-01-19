@@ -105,6 +105,10 @@ You can use URL authentication:
 
 > **NOTE**: Be sure to merge the latest from "upstream" before making a pull request!
 
+## Related
+
+- [zce/qiniu-store](https://github.com/zce/qiniu-store) - Qiniu Storage for Ghost
+
 ## License
 
 [MIT](LICENSE) &copy; [汪磊](https://zce.me/)
